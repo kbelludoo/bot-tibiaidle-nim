@@ -1,0 +1,23 @@
+[
+  {
+    "id": "kbelludoo",
+    "name": "kbelludoo",
+    "enabled": true,
+    "credentials": {
+      "sessionCookie": "sid=seu_session_cookie_aqui",
+      "email": "user@example.com",
+      "password": "sua_senha_aqui"
+    },
+    "settings": {
+      "huntId": 26,
+      "huntName": "Daramian Minotaur Pyramid",
+      "lure": 2,
+      "autoSell": true,
+      "autoBless": true,
+      "autoDaily": true,
+      "autoHunt": true,
+      "bestiaryMode": false,
+      "autoVip": true
+    }
+  }
+]
